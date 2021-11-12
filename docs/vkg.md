@@ -33,11 +33,11 @@ These data quality issues are not cleaned at the VKG level on purpose so as to b
 
 ### Accommodation
 
-![Accommodation diagram](diagrams/odh-lodging-business.svg)
+![Accommodation diagram](diagrams/odh-lodging-business.png)
 
 ### Food establishments
 
-![Food establishment diagram](diagrams/odh-food-establishment.svg)
+![Food establishment diagram](diagrams/odh-food-establishment.png)
 
 
 ### Events
